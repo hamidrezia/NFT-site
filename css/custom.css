@@ -1,0 +1,68 @@
+@font-face {
+  font-family: kalameh;
+  font-weight: 900;
+  src: url(../font/WebFonts/_Woff/KalamehWeb-Black.woff) format(woff);
+   font-style: normal;
+}
+@font-face {
+  font-family: kalameh;
+  font-weight: bold;
+  src: url(../font/WebFonts/_Woff/KalamehWeb-Bold.woff) format(woff);
+   font-style: normal;
+}
+@font-face {
+  font-family: kalameh;
+  font-weight: normal;
+  src: url(../font/WebFonts/_Woff/KalamehWeb-Regular.woff) format(woff);
+   font-style: normal;
+}
+@font-face {
+  font-family: kalameh;
+  font-weight: bold;
+  src: url(../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff) format(woff);
+   font-style: normal;
+}
+@font-face {
+  font-family: kalameh;
+  font-weight: 900;
+  src: url(../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff) format(woff);
+   font-style: normal;
+}
+@font-face {
+  font-family: kalameh;
+  font-weight: normal;
+  src: url(../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff) format(woff);
+   font-style: normal;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-feature-settings: "lnum";
+  }
+  body {
+    font-family:kalameh;
+    background-color: var(--color_07101D);
+  }
+  .hidden {
+    display: none;
+  }
+:root{
+  --color_07101D:#07101D;
+  --color_FF3C00:#FF3C00;
+}
+.text-FF3C00{
+  color: var(--color_FF3C00) !important;
+}
+.border-FF3C00{
+  border-color: var(--color_FF3C00) !important;
+}
+.bg-FF3C00{
+  background-color: var(--color_FF3C00);
+}
+a{
+  text-decoration: none;
+}
+.w-85{
+  width: 85%;
+}
