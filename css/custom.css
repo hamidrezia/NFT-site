@@ -41,7 +41,7 @@
   font-feature-settings: "lnum";
   }
   body {
-    font-family:kalameh;
+    font-family:"kalameh";
     background-color: var(--color_07101D);
   }
   .hidden {
