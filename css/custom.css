@@ -1,7 +1,7 @@
 @font-face {
   font-family: kalameh;
   font-weight: 900;
-  src: url(../font/WebFonts/_Woff/KalamehWeb-Black.woff) ;
+  src: url(./../font/WebFonts/_Woff/KalamehWeb-Black.woff) ;
    font-style: normal;
 }
 @font-face {
@@ -13,25 +13,25 @@
 @font-face {
   font-family: kalameh;
   font-weight: normal;
-  src: url(../font/WebFonts/_Woff/KalamehWeb-Regular.woff) ;
+  src: url(./../font/WebFonts/_Woff/KalamehWeb-Regular.woff) ;
    font-style: normal;
 }
 @font-face {
   font-family: kalameh;
   font-weight: bold;
-  src: url(../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff) ;
+  src: url(./../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff) ;
    font-style: normal;
 }
 @font-face {
   font-family: kalameh;
   font-weight: 900;
-  src: url(../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff) ;
+  src: url(./../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff) ;
    font-style: normal;
 }
 @font-face {
   font-family: kalameh;
   font-weight: normal;
-  src: url(../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff) ;
+  src: url(./../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff) ;
    font-style: normal;
 }
 * {
